@@ -182,7 +182,7 @@ for (let language of languagesLearned)
 console.log(language);
 }
 
-question 21
+// question 21
 type userDetail = {
 
     dateBirthNumber : number 
@@ -202,7 +202,7 @@ let  newUser : userDetail = {
 
 console.log(newUser)
 
-question 22 
+// question 22 
 let languagesLearned : string[]= [123,"C#","Flutter","C+","Type Script"]
 console.log (languagesLearned)
 
@@ -282,7 +282,7 @@ if (anotherAlienColor == "green"){
     console.log ("player earned 5 points")
 }
 
-question 27 
+// question 26 
 let gameAlienColor: string = "green"
 
 if (gameAlienColor == "green"){
